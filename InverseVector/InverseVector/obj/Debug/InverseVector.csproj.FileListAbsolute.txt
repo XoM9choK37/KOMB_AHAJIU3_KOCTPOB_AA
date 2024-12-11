@@ -1,0 +1,10 @@
+D:\User\Documents\CodesAndPrograms\csProjects\InverseVector\InverseVector\bin\Debug\InverseVector.exe.config
+D:\User\Documents\CodesAndPrograms\csProjects\InverseVector\InverseVector\bin\Debug\InverseVector.exe
+D:\User\Documents\CodesAndPrograms\csProjects\InverseVector\InverseVector\bin\Debug\InverseVector.pdb
+D:\User\Documents\CodesAndPrograms\csProjects\InverseVector\InverseVector\obj\Debug\InverseVector.csproj.AssemblyReference.cache
+D:\User\Documents\CodesAndPrograms\csProjects\InverseVector\InverseVector\obj\Debug\InverseVector.Form1.resources
+D:\User\Documents\CodesAndPrograms\csProjects\InverseVector\InverseVector\obj\Debug\InverseVector.Properties.Resources.resources
+D:\User\Documents\CodesAndPrograms\csProjects\InverseVector\InverseVector\obj\Debug\InverseVector.csproj.GenerateResource.cache
+D:\User\Documents\CodesAndPrograms\csProjects\InverseVector\InverseVector\obj\Debug\InverseVector.csproj.CoreCompileInputs.cache
+D:\User\Documents\CodesAndPrograms\csProjects\InverseVector\InverseVector\obj\Debug\InverseVector.exe
+D:\User\Documents\CodesAndPrograms\csProjects\InverseVector\InverseVector\obj\Debug\InverseVector.pdb
